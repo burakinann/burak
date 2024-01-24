@@ -6,12 +6,7 @@
             "poster": "https://thumbsnap.com/i/RXonzwRq.png ",
             "videoUrl": "https://thumbsnap.com/i/s237aryk.mp4",
             "webSite":"https://rog.asus.com/tr/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx4090-24g-white-model/",
-            "Metin":"ROG Strix GeForce RTX™ 4090 24GB GDDR6X White Edition, DLSS 3 ve lider termal performans.",
-            "HareketSlayder": [
-                "https://thumbsnap.com/i/p18aZrmb.png",
-                "https://thumbsnap.com/i/6WUS8BMp.png"
-                
-            ]
+            "Metin":"ROG Strix GeForce RTX™ 4090 24GB GDDR6X White Edition, DLSS 3 ve lider termal performans."
         },
         {
             "Model": "RTX 4070",
@@ -20,10 +15,6 @@
             "videoUrl": "https://thumbsnap.com/i/v5aFug8i.mp4",
             "webSite":"https://rog.asus.com/tr/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx4070s-12g-gaming/",
             "Metin":"ROG Strix GeForce RTX™ 4070 SUPER 12GB GDDR6X, DLSS 3 ve liste başı termal performansa sahip.",
-            "HareketSlayder": [
-                "https://thumbsnap.com/i/R5dUUpGG.png",
-                "https://thumbsnap.com/i/6VRze2L9.png"
-            ]
         },
         {
             "Model": "RTX 4060 Tİ",
@@ -31,11 +22,8 @@
             "poster": "https://thumbsnap.com/i/j9hPxQ8n.png",
             "videoUrl": "https://thumbsnap.com/i/nYjKDYSg.mp4",
             "webSite":"https://www.asus.com/tr/motherboards-components/graphics-cards/dual/dual-rtx4060ti-o8g-ssd/",
-            "Metin":"NVIDIA DLSS3, ultra verimli Ada Lovelace mimarisi ve eksiksiz ışın izleme ile güçlendirildi.",
-            "HareketSlayder": [
-                "https://thumbsnap.com/i/MhHcrors.png",
-                "https://thumbsnap.com/i/PtRKTGpa.png"
-            ]
+            "Metin":"NVIDIA DLSS3, ultra verimli Ada Lovelace mimarisi ve eksiksiz ışın izleme ile güçlendirildi."
+          
         },
 
         {
@@ -44,11 +32,7 @@
             "poster": "https://thumbsnap.com/i/hmeLSCBy.png",
             "videoUrl": "https://thumbsnap.com/aE8aBuGS",
             "webSite":"https://www.asus.com/tr/motherboards-components/graphics-cards/tuf-gaming/tuf-rx7800xt-o16g-gaming/",
-            "Metin":"düşük sıcaklıklar ve dayanıklılık için baştan sona optimize edildi.",
-            "HareketSlayder": [
-                "https://thumbsnap.com/i/nGbyAWC6.png",
-                "https://thumbsnap.com/i/EcUaPqwK.png"
-            ]
+            "Metin":"düşük sıcaklıklar ve dayanıklılık için baştan sona optimize edildi."
         },
 
         {
@@ -57,11 +41,7 @@
             "poster": "https://thumbsnap.com/i/HeFfL7bg.png",
             "videoUrl": "https://thumbsnap.com/i/SJUTd3he.mp4",
             "webSite":"https://rog.asus.com/tr/graphics-cards/graphics-cards/rog-strix/rog-strix-rx7600-o8g-gaming/",
-            "Metin":"RX 7600 OC Edition 8GB GDDR6 düşük sıcaklıklar ve dayanıklılık için baştan sona optimize edildi",
-            "HareketSlayder": [
-                "https://thumbsnap.com/i/wUwbWLhz.png ",
-                "https://thumbsnap.com/i/vLRRRWSR.png "
-            ]
+            "Metin":"RX 7600 OC Edition 8GB GDDR6 düşük sıcaklıklar ve dayanıklılık için baştan sona optimize edildi"
         }
 
     ]
