@@ -33,6 +33,15 @@
             "webSite":"https://www.asus.com/tr/motherboards-components/graphics-cards/tuf-gaming/tuf-rx7800xt-o16g-gaming/",
             "Metin":"düşük sıcaklıklar ve dayanıklılık için baştan sona optimize edildi."
           
+        },
+
+        {
+            "Model": "RX 7600 OC",
+            "Marka": "AMD",
+            "poster": "https://thumbsnap.com/i/HeFfL7bg.png",
+            "videoUrl": "https://thumbsnap.com/i/SJUTd3he.mp4",
+            "webSite":"https://rog.asus.com/tr/graphics-cards/graphics-cards/rog-strix/rog-strix-rx7600-o8g-gaming/",
+            "Metin":"RX 7600 OC Edition 8GB GDDR6 düşük sıcaklıklar ve dayanıklılık için baştan sona optimize edildi"
         }
     ]
 }
